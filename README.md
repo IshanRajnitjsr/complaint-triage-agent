@@ -742,7 +742,7 @@ Escalate complaint for manual review.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Raj-Aryan111/complaint-triage-agent.git
+git clone https://github.com/IshanRajnitjsr/complaint-triage-agent.git
 
 cd complaint-triage-agent
 ```
@@ -881,7 +881,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Raj Aryan**
+## Author
 
-GitHub:
-https://github.com/Raj-Aryan111
+**Ishan Raj**
+
+GitHub: [https://github.com/IshanRajnitjsr](https://github.com/IshanRajnitjsr)
